@@ -28,3 +28,8 @@ end
 # assign user variable a User object calling
 # the sign_in_from_omniauth method (in models)
 # passing it the response given back from the provider
+
+# destroy
+
+# setting both the user_id and omniauth response
+# to nil - therefore you are signed out
